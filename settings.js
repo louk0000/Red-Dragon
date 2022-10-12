@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = ` واش اخـــو مـࢪحـبـا بـڪ فـالـبـوت بـيـتـي نـعـاونـڪ فـشـي حـاجـة مـࢪحـبا،َِ🥺💗🔐!َ''))
+❤️‍🩹❤️‍🔥` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,7 +30,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['212661809542'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.ownername = "لأزــ؏ـــــࢪ المــلــڪيـﮯ//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟😻
+" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
